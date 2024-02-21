@@ -4,3 +4,4 @@ python:
 
 script:
   - echo "Hello, World!"
+  - python hello_server.py
